@@ -1,0 +1,63 @@
+* {
+  background-color: #F9F7F3;
+}
+
+.cat_image {
+  margin: 0% 25% 0%;
+  width: 25%;
+  height: 25%;
+  border-radius: 10px;
+  border: 5px double gray;
+}
+.cat_information {
+  display: grid;
+  justify-content: center;
+}
+
+img {
+  border-radius: 15px;
+  display: block;
+  margin-top: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#breed_name {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#breed_json {
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+
+.wiki {
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.breed {
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+a {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: black;
+}
+
+a:visited {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: black;
+}
+
+a:hover {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: rgb(118, 118, 118);
+}
